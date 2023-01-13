@@ -1,0 +1,13 @@
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\bin\Debug\dll_test.exe.config
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\bin\Debug\dll_test.exe
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\bin\Debug\dll_test.pdb
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\bin\Debug\example.dll
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\bin\Debug\example.pdb
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\obj\Debug\dll_test.csproj.AssemblyReference.cache
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\obj\Debug\dll_test.Form1.resources
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\obj\Debug\dll_test.Properties.Resources.resources
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\obj\Debug\dll_test.csproj.GenerateResource.cache
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\obj\Debug\dll_test.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\obj\Debug\dll_test.csproj.CopyComplete
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\obj\Debug\dll_test.exe
+C:\Users\ahmet.celik\source\repos\dll_test\dll_test\obj\Debug\dll_test.pdb
